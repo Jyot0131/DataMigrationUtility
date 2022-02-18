@@ -1,0 +1,15 @@
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\bin\Debug\net5.0\DataMigrationUtility.Domain.deps.json
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\bin\Debug\net5.0\DataMigrationUtility.Domain.runtimeconfig.json
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\bin\Debug\net5.0\DataMigrationUtility.Domain.runtimeconfig.dev.json
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\bin\Debug\net5.0\DataMigrationUtility.Domain.dll
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\bin\Debug\net5.0\ref\DataMigrationUtility.Domain.dll
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\bin\Debug\net5.0\DataMigrationUtility.Domain.pdb
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.csproj.AssemblyReference.cache
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.AssemblyInfoInputs.cache
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.AssemblyInfo.cs
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.csproj.CoreCompileInputs.cache
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.dll
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\ref\DataMigrationUtility.Domain.dll
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.pdb
+C:\Jyot\C#\DataMigrationUtility\DataMigrationUtility.Domain\obj\Debug\net5.0\DataMigrationUtility.Domain.genruntimeconfig.cache
