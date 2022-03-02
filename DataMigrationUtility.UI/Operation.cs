@@ -13,9 +13,8 @@ namespace DataMigrationUtility.UI
     public class Operation
     {
         private DatabaseContext _context = new DatabaseContext();
-        //private static CancellationTokenSource tokenSource = new CancellationTokenSource();
-        //private static CancellationToken token = tokenSource.Token;
         private bool _isCompleted = false;
+        private readonly int MAXIMUM_TASK = 25;
 
 
         public void ConsoleInputs(int batchId, CancellationTokenSource tokenSource)
@@ -69,7 +68,7 @@ namespace DataMigrationUtility.UI
 
             for (var i = 0; i <= (higher-lower)/100; i++)
             {
-                if(noOfTasksCreated >= 25)
+                if(noOfTasksCreated >= MAXIMUM_TASK)
                 {
                     Task.WaitAll(parallelTasks.ToArray());
                     noOfTasksCreated = 0;
